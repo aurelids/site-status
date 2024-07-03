@@ -1,0 +1,9 @@
+03/07/2024 16:23:56 - site-falso- online: false
+03/07/2024 16:24:33 - https://www.alura.com.br- online: true
+03/07/2024 16:24:33 - https://www.google.com- online: true
+03/07/2024 16:24:33 - https://www.instagram.com- online: true
+03/07/2024 16:24:34 - https://www.globo.com- online: true
+03/07/2024 16:24:37 - https://www.alura.com.br- online: true
+03/07/2024 16:24:37 - https://www.google.com- online: true
+03/07/2024 16:24:37 - https://www.instagram.com- online: true
+03/07/2024 16:24:37 - https://www.globo.com- online: true
